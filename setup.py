@@ -11,7 +11,7 @@ setup(
     author='Rémi ALLAIN',
     author_email='rallain@cyberprotect.fr',
     maintainer='Rémi ALLAIN',
-    url='https://github.com/Cyberprotect/CortexRunner',
+    url='https://github.com/Cyberprotect/Cortex-Runner',
     license='Apache 2.0',
     packages=['cortexrunner'],
     classifiers=[
