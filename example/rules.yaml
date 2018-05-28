@@ -1,0 +1,14 @@
+
+file:
+  - analyzer: Cuckoo_Sandbox_File_Analysis_1_0
+    scope: internal
+  - analyzer: VirusTotal_Report_2_0
+    scope: external
+filename:
+  - analyzer: MISP_2_0
+    scope: internal
+  - analyzer: HybridAnalysis_GetReport_1_0
+    scope: external
+url:
+  - analyzer: Threatcrowd_1_0
+    scope: external
