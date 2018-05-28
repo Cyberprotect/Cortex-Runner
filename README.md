@@ -19,6 +19,12 @@ cd CortexRunner-master
 python setup.py install
 ```
 
+or
+
+```bash
+pip install Cortex-Runner
+```
+
 ## Usage
 
 ```python

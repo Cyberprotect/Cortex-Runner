@@ -15,7 +15,6 @@ setup(
     license='AGPL-V3',
     packages=['cortexrunner'],
     classifiers=[
-        'Development Status :: 1 - Alpha',
         'Intended Audience :: Developers',
         'Intended Audience :: Information Technology',
         'Intended Audience :: Science/Research',
