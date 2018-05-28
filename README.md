@@ -2,7 +2,7 @@
 
 > Rémi ALLAIN <rallain@cyberprotect.fr>
 
-# CortexRunner
+# Cortex-Runner
 
 Cortex jobs automation for TheHive
 
@@ -14,7 +14,7 @@ Cortex jobs automation for TheHive
 ## Installation
 
 ```bash
-git clone 'https://github.com/Cyberprotect/CortexRunner.git'
+git clone 'https://github.com/Cyberprotect/Cortex-Runner.git'
 cd CortexRunner-master
 python setup.py install
 ```
